@@ -10,3 +10,6 @@
 3. Do your task.
 4. Copy document link and paste link to input on platform.
 5. Submit your solution. 🚀
+
+**Important**
+- Don't delete or resolve mentor's comments! Mentor will resolve them while checking your homework if you made the necessary fixes.
