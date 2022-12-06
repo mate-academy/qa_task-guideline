@@ -11,5 +11,7 @@
 4. Copy document link and paste link to input on platform.
 5. Submit your solution. 🚀
 
-**Important**
-- Don't delete or resolve mentor's comments! Mentor will resolve them while checking your homework if you made the necessary fixes.
+## How to send task after the mentor review
+
+1. Make sure you are fixed all mentor's comments.
+1. **Do not** delete or mark as resolved mentor's comments. Type 'fixed' instead and wait till the mentor will resolve them while checking your homework if you made the necessary fixes.
