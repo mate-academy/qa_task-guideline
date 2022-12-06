@@ -15,4 +15,5 @@
 
 1. Make sure you are fixed all mentor's comments.
 1. **Do not** delete or mark as resolved mentor's comments. Type 'fixed' instead and wait till the mentor will resolve them while checking your homework if you made the necessary fixes.
+
 <img width="352" alt="image" src="https://user-images.githubusercontent.com/77388860/205937058-0cd740da-c5a9-4a1c-9d2e-349533438653.png">
