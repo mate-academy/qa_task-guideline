@@ -5,7 +5,7 @@
 1. Copy our Google document from description or create a new with link in task description
 2. Share the access to file:
   - Click on `Share` button in the upper right corner ![image](https://github.com/mate-academy/qa_task-guideline/assets/77388860/df8804f4-c480-4744-ae74-e75f9aee5119)
-  - Change access to `Anyone with the link` ![image](https://github.com/mate-academy/qa_task-guideline/assets/77388860/30d66691-8749-4c49-9ae2-ef1a512f5f3f)
+  - Change access to `Anyone with the link` ![image](https://github.com/mate-academy/qa_task-guideline/assets/77388860/778c27b9-07b4-4d12-af5e-ede64eb84ec8)
   - Change permission from `Viewer` to `Editor` ![image](https://github.com/mate-academy/qa_task-guideline/assets/77388860/13a3500d-b7c9-4fd4-9c63-063284b0bdea)
 
 3. Do your task.
