@@ -4,9 +4,10 @@
 
 1. Copy our Google document from description or create a new with link in task description
 2. Share the access to file:
-  - Click on `Share` button ![image](https://user-images.githubusercontent.com/46418908/116707408-5095f600-a9d7-11eb-8133-9f4caa8c32f7.png)
-  - Click `Change to anyone with the link` ![image](https://user-images.githubusercontent.com/46418908/116706789-ae760e00-a9d6-11eb-8c0f-2230e45b5f75.png)
-  - Change permission from `Viewer` to `Editor` ![image](https://user-images.githubusercontent.com/46418908/116707096-f6953080-a9d6-11eb-8737-ff462affae9d.png)
+  - Click on `Share` button in the upper right corner ![image](https://github.com/mate-academy/qa_task-guideline/assets/77388860/df8804f4-c480-4744-ae74-e75f9aee5119)
+  - Change access to `Anyone with the link` ![image](https://github.com/mate-academy/qa_task-guideline/assets/77388860/30d66691-8749-4c49-9ae2-ef1a512f5f3f)
+  - Change permission from `Viewer` to `Editor` ![image](https://github.com/mate-academy/qa_task-guideline/assets/77388860/13a3500d-b7c9-4fd4-9c63-063284b0bdea)
+
 3. Do your task.
 4. Copy document link and paste link to input on platform.
 5. Submit your solution. 🚀
